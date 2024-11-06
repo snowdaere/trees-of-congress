@@ -2,7 +2,7 @@
 
 This dendrogram shows a hierarchical clustering by similarity of roll call votes of the 117th United States Senate, which met from January 3rd 2021 to January 3rd 2023. This Senate voted on 949 total bills, 528 in the first session (2021) and 421 in the second session (2022).
 
-![tree diagram](https://github.com/snowdaere/trees-of-congress/blob/main/figures/117-2021-2022-tree.png)
+<img src="https://github.com/snowdaere/trees-of-congress/blob/main/figures/117-2021-2022-tree.png" style="max-width: 60%"/>
 
 Roll call votes were was pulled and aggregated via script from [the senate.gov website](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00001.xml).
 
