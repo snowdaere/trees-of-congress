@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "a9bb0291a195b309",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b99717faebde31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b62a58a42a345d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "437a65728ef2f87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analyzing Congressional Voting Patterns with Biostatistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a295dbb36ea094ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "edc7f0b7190c9706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562976525ad7589b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3d074d913f916c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "085ceca89f7bd635",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "73b5c54585568538",
+    "type": "split",
+    "children": [
+      {
+        "id": "80d4c3f4b1a9ca28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57d2d37dbd735070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analyzing Congressional Voting Patterns with Biostatistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2392c7e0d8a99ffa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analyzing Congressional Voting Patterns with Biostatistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d964900dfd98ab8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b5dda218f7c51f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analyzing Congressional Voting Patterns with Biostatistics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "437a65728ef2f87d",
+  "lastOpenFiles": [
+    "Pasted image 20231217222556.png",
+    "Analyzing Congressional Voting Patterns with Biostatistics.md"
+  ]
+}
